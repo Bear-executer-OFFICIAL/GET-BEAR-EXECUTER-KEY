@@ -4,6 +4,7 @@
 - 🔭 I’m currently working on [BEAR EXECUTER V1](https://discord.com/channels/1280995995458732082/1281000424803012723)
 
 My Guns.lol Page for my social!! https://guns.lol/byezenn
+MAKE SURE NO SPACES ARE ON THE KEY FOR THE EXECUTER OR THE CODE WILL BE WRONG
 <h3 align="left">Connect with me: byezenn or on the discord!!</h3>
 <p align="left">
 </p>
